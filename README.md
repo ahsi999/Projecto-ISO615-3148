@@ -4,7 +4,7 @@
 - **Nombre:** Rafael Ulloa
 - **Matrícula:** A00115474
 - **Institución:** Universidad APEC (UNAPEC)
-- **Asignatura:** Gestión de Sitios Web
+- **Asignatura:** DESARROLLO DE SOFTWARE CON TEC-SEM
 
 ## Descripción del Proyecto
 Este repositorio ha sido creado como parte de la práctica **RUB-01-GitHub**, con el objetivo de demostrar la capacidad de crear y configurar un espacio de trabajo profesional en la nube utilizando GitHub como plataforma de control de versiones y colaboración.
