@@ -1,51 +1,48 @@
-# Espacio de Trabajo en la Nube - GitHub
+# soporte-sistema-Guardian
+Sistema de gestión de tickets de soporte técnico
 
-## Información del Estudiante
-- **Nombre:** Rafael Ulloa
-- **Matrícula:** A00115474
-- **Institución:** Universidad APEC (UNAPEC)
-- **Asignatura:** DESARROLLO DE SOFTWARE CON TEC-SEM
+# Sistema de Soporte Técnico - [Soporte Sistema Guardian]
 
-## Descripción del Proyecto
-Este repositorio ha sido creado como parte de la práctica **RUB-01-GitHub**, con el objetivo de demostrar la capacidad de crear y configurar un espacio de trabajo profesional en la nube utilizando GitHub como plataforma de control de versiones y colaboración.
+## 📋 Descripción
+Sistema para gestionar tickets de soporte técnico de forma eficiente y colaborativa.
 
-## Objetivo
-Crear un repositorio funcional en GitHub que incluya:
-- Configuración inicial adecuada
-- Archivo README.md con información del proyecto
-- Archivo .gitignore para exclusión de archivos innecesarios
-- Estructura organizada de carpetas
-- Descripción clara del propósito del repositorio
+## 👥 Equipo de Desarrollo
+- *Líder*: [Carla Sbarra] - [@usuario-github]
+- *Desarrollador*: [Rafael Ulloa] - [@ahsi999]
+- *Desarrollador*: [Marlon Dotel] - [@Marlonfofi10]
 
-## Estructura del Repositorio
-```
-.
-├── README.md
-├── .gitignore
-├── docs/
-│   └── documentacion.md
-└── src/
-    └── (código fuente)
-```
 
-## Tecnologías Utilizadas
-- **GitHub:** Plataforma de alojamiento y control de versiones
-- **Git:** Sistema de control de versiones distribuido
-- **Markdown:** Lenguaje de marcado para documentación
+## 🎯 Problema que Resuelve
+[Describe el problema común de soporte que están abordando]
 
-## Criterios de Evaluación Cumplidos
-- ✅ Creación del repositorio
-- ✅ Configuración inicial (README)
-- ✅ Uso de .gitignore
-- ✅ Descripción del proyecto en GitHub
-- ✅ Organización del repositorio
 
-## Fecha de Entrega
-Según calendario académico de UNAPEC
+## ✨ Características Principales
+- Creación de tickets
+- Asignación automática
+- Seguimiento de estado
+- Panel de administración
+- Notificaciones por email
 
-## Contacto
-- **GitHub:** ahsi9999
-- **Email Institucional:** r.ulloa8@unapec.edu.do
+## 🛠️ Tecnologías
+- [Lenguaje/Framework que usarán]
+- GitHub para control de versiones
+- [Otras herramientas]
 
----
-*Repositorio creado para fines académicos - UNAPEC 2026*
+## 📂 Estructura del Proyecto
+
+/src          - Código fuente
+/docs         - Documentación
+/tests        - Pruebas
+/config       - Configuraciones
+
+
+## 🚀 Instalación
+[Instrucciones básicas - pueden completarse después]
+
+## 📝 Licencia
+MIT License
+
+## 📧 Contacto
+[m.dotel7@unapec.edu.do]
+[r.ulloa8@unapec.edu.do]
+[c.sbarra@unapec.edu.do]
